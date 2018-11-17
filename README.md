@@ -11,3 +11,7 @@
 8. Cracking the Coding Interview: 150 Programming Questions and Solutions
 9. Soft Skills: The Software Developer’s Life Manual
 
+## Laravel
+1. Laravel from scratch 
+[youtube playlist](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
+ 

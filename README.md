@@ -1,4 +1,4 @@
-# MyRoadMap
+# My Road Map
 
 ## The 9 Best Programming Books to Read Right Now if You Want to Distinguish Yourself
 (https://www.codingdojo.com/blog/9-best-programming-books-read-right-now-want-distinguish/)
@@ -13,6 +13,6 @@
 9. Soft Skills: The Software Developer’s Life Manual
 
 ## Laravel
-1. Laravel from scratch 
+### 1. Laravel from scratch 
 [youtube playlist](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
  

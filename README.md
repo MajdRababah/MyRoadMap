@@ -16,9 +16,9 @@
 ### 1. Laravel from scratch 
 [youtube playlist](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
 #### Laravel projects:
-https://github.com/Jarkkohei/bpwebsite
-https://gist.github.com/msurguy/8590765
-https://github.com/luisgc93/Laravel-To-do-list-app
-https://github.com/curogihu/laravel_10_projects
+1. https://github.com/Jarkkohei/bpwebsite
+2. https://gist.github.com/msurguy/8590765
+3. https://github.com/luisgc93/Laravel-To-do-list-app
+4. https://github.com/curogihu/laravel_10_projects
 
  

@@ -20,5 +20,7 @@
 2. https://gist.github.com/msurguy/8590765
 3. https://github.com/luisgc93/Laravel-To-do-list-app
 4. https://github.com/curogihu/laravel_10_projects
+5. https://github.com/goodnesskay/Laravel-Open-Source-Projects
+
 
  
